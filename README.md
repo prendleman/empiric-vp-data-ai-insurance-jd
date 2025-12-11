@@ -1,96 +1,59 @@
-# Vice President of Data & AI - Insurance
+# Life & Annuity Insurance: Data & AI Portfolio
 
-**Empiric** | Remote (United States) | [View on LinkedIn](https://www.linkedin.com/jobs/view/4342625492/)
+A comprehensive portfolio of data, analytics, automation, and AI solutions specifically designed for the **Life & Annuity insurance** sector. This POC demonstrates technical depth, domain learning capability, and solution consulting approach for modernizing insurance operations.
 
-## About the Role
+> **Portfolio / Learning Project** - This repository showcases how I approach building data and AI solutions for Life & Annuity carriers. It demonstrates production-ready patterns, business value focus, and integration capabilities across Microsoft Fabric, Salesforce, and cloud platforms.
 
-We are seeking a strategic senior leader to drive growth within the Life & Annuity insurance market. In this role, you will guide solution strategy, lead executive-level client engagements, and expand a portfolio of innovative data, analytics, automation, and AI-driven offerings. You will operate as a trusted advisor to major carriers—helping them modernize operations, improve customer experience, and unlock new business value.
+> **Non-Affiliation** - This project is independent and is not affiliated with, endorsed by, or created at the request of any company. See [DISCLAIMER.md](DISCLAIMER.md) for full details.
 
-## Compensation
+## What This Is
 
-- **Base Salary:** $250,000 - $270,000
-- **Bonus:** 25%
-- **Equity:** Included
-- **Location:** Remote (Must be based in the United States)
+- **Purpose**: Portfolio demonstration of data & AI capabilities for L&A insurance
+- **Focus**: Production-ready patterns, business value, and measurable outcomes
+- **Tier 1 Demo**: Policy analytics, fraud detection, churn prediction, compliance automation, data pipelines, CRM integration
+- **Not**: A production system or replacement for enterprise insurance platforms
 
-## What You'll Do
+## Portfolio Tools
 
-* **Own P&L performance** and lead revenue growth for the Life & Annuity vertical, including pipeline development and portfolio profitability.
-* Engage directly with senior client stakeholders to shape AI, data, and digital solutions that address critical business challenges.
-* Strengthen and expand key client relationships while leading pursuits, proposals, and executive presentations to win new business.
-* Partner closely with global delivery, product, and technology teams to design, position, and launch differentiated solutions.
-* Represent the company's capabilities in the market through thought leadership, industry events, and advisory discussions.
-* Monitor and anticipate insurance, regulatory, and technology trends to inform strategy and guide clients through change.
+### 1. Life & Annuity Policy Analytics Dashboard
+Advanced analytics for policy performance, persistency, retention, and profitability across product lines (term, whole life, annuities).
 
-## What Makes You a Great Fit
+**Key Capabilities**: Lapse prediction, premium trend analysis, cohort analysis, executive dashboards
 
-* A career that started in **technical roles** and evolved into **solution consulting, pre-sales, and leadership**—with the ability to go deep technically while speaking the language of business.
-* Strong expertise in the **Life & Annuity** insurance sector and understanding of business processes, distribution models, and operational priorities.
-* Knowledge of **data management, analytics, AI/ML, automation, and cloud** technologies—and how they create measurable outcomes for insurers.
-* Proven success in **owning a book of business**, driving profitable growth, and navigating complex, matrixed organizations.
-* Executive presence, storytelling ability, and confidence engaging and influencing C-suite leaders.
+### 2. Insurance Claims Fraud Detection (AI/ML)
+Production-style ML pipeline for real-time claims fraud detection, with model explainability and integration patterns.
 
-## Why Join
+**Key Capabilities**: Anomaly detection, real-time scoring API, SHAP/LIME explainability, fraud metrics dashboards
 
-Lead a high-growth business area, shape strategic transformation across leading Life & Annuity carriers, and be at the forefront of how AI and digital innovation redefine the insurance industry.
+### 3. Customer Churn Prediction & Retention
+Predictive models to identify at-risk policyholders and trigger automated, data-driven retention campaigns.
 
-## Job Details
+**Key Capabilities**: Churn prediction, CLV calculation, retention campaign optimization, customer segmentation
 
-- **Seniority Level:** Director
-- **Employment Type:** Full-time
-- **Job Function:** Business Development and Strategy/Planning
-- **Industries:** IT Services and IT Consulting
-- **Posted:** 2 days ago
-- **Applicants:** Over 200 applicants
+### 4. Regulatory Compliance Automation
+Automated workflows for recurring regulatory reporting and compliance checks tailored to L&A carriers.
 
-## Contact
+**Key Capabilities**: NAIC/state report generation, data quality validation, audit trail automation, compliance tracking
 
-**Recruiter:** Thomas Tarleton  
-**Title:** Head of Microsoft Fabric & Salesforce Recruitment at Empiric
+### 5. Data Pipeline & ETL Framework
+Cloud-native ingestion and transformation framework with data quality and monitoring, suitable for multi-source insurance data.
 
-## Application
+**Key Capabilities**: Multi-source ingestion, data quality monitoring, cloud-native architecture, automated lineage
 
-[Apply on LinkedIn](https://www.linkedin.com/jobs/view/4342625492/)
+### 6. Microsoft Fabric Integration
+Fabric workspace management, semantic models, pbip v7 generation, and Gen2 dataflows for unified analytics and AI.
 
-# Empiric – VP of Data & AI (Insurance) Portfolio
+**Key Capabilities**: Workspace API, semantic models, Power BI Project (pbip v7), Gen2 dataflows, Lakehouse integration
 
-This repository showcases a targeted portfolio of data, analytics, automation, and AI solutions for the **Life & Annuity insurance** sector. It is designed to demonstrate:
+### 7. Salesforce CRM Connector
+Integration with Salesforce CRM for customer data synchronization, opportunity tracking, and claims-to-cases management.
 
-- Technical depth in data, AI/ML, automation, and Microsoft Fabric
-- Rapid domain learning in Life & Annuity business processes
-- A solution consulting mindset: business value, ROI, and executive storytelling
+**Key Capabilities**: Policy-to-Account sync, Claims-to-Cases, opportunity tracking, 360-degree customer view
 
-Together, these assets represent the type of portfolio a **Vice President of Data & AI – Insurance** would lead and scale across major carriers.
+### 8. Executive Presentation Generator
+Automated executive-ready presentations and business cases that translate technical solutions into P&L impact and strategic outcomes.
 
----
-
-## Tools Included
-
-- **Life & Annuity Policy Analytics Dashboard**  
-  Advanced analytics for policy performance, persistency, retention, and profitability across product lines (term, whole life, annuities).
-
-- **Insurance Claims Fraud Detection (AI/ML)**  
-  Production-style ML pipeline for real-time claims fraud detection, with model explainability and integration patterns.
-
-- **Customer Churn Prediction & Retention**  
-  Predictive models to identify at-risk policyholders and trigger automated, data-driven retention campaigns.
-
-- **Regulatory Compliance Automation**  
-  Automated workflows for recurring regulatory reporting and compliance checks tailored to L&A carriers.
-
-- **Data Pipeline & ETL Framework**  
-  Cloud-native ingestion and transformation framework with data quality and monitoring, suitable for multi-source insurance data.
-
-- **Microsoft Fabric Integration**  
-  Fabric workspace management, semantic models, pbip v7 generation, and Gen2 dataflows for unified analytics and AI.
-
-- **Salesforce CRM Connector**  
-  Integration with Salesforce CRM for customer data synchronization, opportunity tracking, and claims-to-cases management. Enables 360-degree customer view and sales pipeline analytics.
-
-- **Executive Presentation Generator**  
-  Automated executive-ready presentations and business cases that translate technical solutions into P&L impact and strategic outcomes. Includes board-ready decks and talk tracks tailored to Life & Annuity carriers.
-
----
+**Key Capabilities**: Board-ready decks, business case templates, ROI narratives, data storytelling
 
 ## Key Capabilities Demonstrated
 
@@ -100,32 +63,101 @@ Together, these assets represent the type of portfolio a **Vice President of Dat
 - ✅ **Cloud Technologies** – Cloud-native architectures on Azure/AWS and Microsoft Fabric  
 - ✅ **Microsoft Fabric** – Semantic models, pbip v7 format, Gen2 dataflows, workspace ops  
 - ✅ **Salesforce CRM** – CRM integration, customer data sync, opportunity tracking, analytics integration  
-- ✅ **Life & Annuity Domain Learning** – Policy, claims, retention, and compliance use cases  
+- ✅ **Life & Annuity Domain** – Policy, claims, retention, and compliance use cases  
 - ✅ **Solution Consulting** – Business problem framing, executive presentations, ROI modeling  
 - ✅ **Technical Leadership** – Production-ready patterns, best practices, and documentation
 
+## Business Value
+
+This portfolio demonstrates how data and AI solutions create measurable business outcomes for L&A carriers:
+
+- **Revenue Protection**: 15-30% improvement in policyholder retention
+- **Cost Reduction**: 20-40% reduction in fraudulent claims, 60-80% reduction in compliance overhead
+- **Operational Efficiency**: 70-90% reduction in manual data processing
+- **Portfolio ROI**: 310-676% ROI over 3 years with 3-6 month payback
+
+See [COMMERCIAL_IMPACT.md](COMMERCIAL_IMPACT.md) for detailed P&L contribution analysis.
+
+## Quick Start
+
+### Prerequisites
+
+```bash
+pip install -r requirements.txt
+```
+
+### Example Usage
+
+```python
+# Policy Analytics
+from tools.policy_analytics.policy_data_analyzer import PolicyAnalyzer
+analyzer = PolicyAnalyzer(policy_data)
+results = analyzer.analyze()
+
+# Fraud Detection
+from tools.fraud_detection.fraud_detector import FraudDetector
+detector = FraudDetector('fraud_model.pkl')
+fraud_score = detector.detect_fraud(claim_data)
+
+# Salesforce Integration
+from tools.salesforce_crm_connector.salesforce_connector import SalesforceConnector
+connector = SalesforceConnector(username, password, security_token)
+connector.create_account(account_data)
+```
+
+See individual tool READMEs in the `tools/` directory for detailed usage.
+
+## Documentation
+
+- **[PORTFOLIO_OVERVIEW.md](PORTFOLIO_OVERVIEW.md)** – Executive summary and tool descriptions
+- **[COMMERCIAL_IMPACT.md](COMMERCIAL_IMPACT.md)** – P&L contribution and business impact analysis
+- **[ARCHITECTURE_OVERVIEW.md](ARCHITECTURE_OVERVIEW.md)** – End-to-end reference architecture
+- **[THOUGHT_LEADERSHIP_TOPICS.md](THOUGHT_LEADERSHIP_TOPICS.md)** – Market-facing topics and presentations
+- **[SKILLS_MAPPING.md](SKILLS_MAPPING.md)** – Capabilities and solution consulting approach
+
+## Architecture
+
+This portfolio demonstrates an end-to-end data and AI platform architecture:
+
+```
+Data Sources → ETL Pipeline → Fabric Lakehouse → Feature Store → ML Models → APIs → BI/Fabric
+                    ↓
+            Salesforce CRM Integration
+                    ↓
+            Executive Dashboards & Reports
+```
+
+See [ARCHITECTURE_OVERVIEW.md](ARCHITECTURE_OVERVIEW.md) for detailed architecture.
+
+## Delivery Model
+
+Tools are designed as **solution accelerators** for global delivery teams:
+
+- **Reusable Components**: Pre-built patterns and frameworks
+- **Scalable Delivery**: Leverages data engineers, ML engineers, BI developers, consultants
+- **Consulting Services Approach**: Repeatable assets, not one-off builds
+- **Rapid Deployment**: 40-60% reduction in implementation time
+
+See [PORTFOLIO_OVERVIEW.md](PORTFOLIO_OVERVIEW.md) for delivery model details.
+
+## Technology Stack
+
+- **Languages**: Python 3.8+
+- **ML/AI**: Scikit-learn, XGBoost, SHAP, LIME
+- **Data**: Pandas, NumPy, SQLAlchemy
+- **Cloud**: AWS/Azure patterns, Microsoft Fabric
+- **CRM**: Salesforce REST API
+- **BI**: Power BI (pbip v7), Microsoft Fabric
+- **APIs**: Flask, REST APIs
+
+## License
+
+MIT License - See [LICENSE](LICENSE) for details.
+
+## Disclaimer
+
+This is a portfolio demonstration project. See [DISCLAIMER.md](DISCLAIMER.md) for full details.
+
 ---
 
-## How to Use This Portfolio
-
-Each tool includes:
-
-- A **README** describing the business problem, L&A context, and business value  
-- **Production-style Python code** with clear structure and patterns  
-- **Example usage and integration patterns** (data flows, APIs, BI integration)  
-- **Executive summaries and ROI calculations** suitable for C-suite discussions  
-
-See the `tools/` directory for detailed documentation.
-
-For a full view across the role requirements, see:
-
-- `PORTFOLIO_OVERVIEW.md` – How the assets form a cohesive Data & AI portfolio for L&A carriers  
-- `SKILLS_MAPPING.md` – Explicit mapping between Empiric's JD and the capabilities shown here
-- `COMMERCIAL_IMPACT.md` – P&L contribution and business impact analysis
-- `THOUGHT_LEADERSHIP_TOPICS.md` – Market-facing topics and presentation outlines
-- `ARCHITECTURE_OVERVIEW.md` – End-to-end reference architecture and generative AI integration points
-
----
-
-*This repository contains the job description and portfolio tools for reference purposes. For the most up-to-date information and to apply, please visit the LinkedIn posting above.*
-
+*This portfolio demonstrates technical depth, domain learning capability, and solution consulting approach for Life & Annuity insurance data and AI solutions.*
