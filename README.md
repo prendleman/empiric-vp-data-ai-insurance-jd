@@ -84,6 +84,9 @@ Together, these assets represent the type of portfolio a **Vice President of Dat
 - **Microsoft Fabric Integration**  
   Fabric workspace management, semantic models, pbip v7 generation, and Gen2 dataflows for unified analytics and AI.
 
+- **Salesforce CRM Connector**  
+  Integration with Salesforce CRM for customer data synchronization, opportunity tracking, and claims-to-cases management. Enables 360-degree customer view and sales pipeline analytics.
+
 - **Executive Presentation Generator**  
   Automated executive-ready presentations and business cases that translate technical solutions into P&L impact and strategic outcomes. Includes board-ready decks and talk tracks tailored to Life & Annuity carriers.
 
@@ -96,6 +99,7 @@ Together, these assets represent the type of portfolio a **Vice President of Dat
 - ✅ **Automation** – Data pipelines, compliance workflows, and campaign orchestration  
 - ✅ **Cloud Technologies** – Cloud-native architectures on Azure/AWS and Microsoft Fabric  
 - ✅ **Microsoft Fabric** – Semantic models, pbip v7 format, Gen2 dataflows, workspace ops  
+- ✅ **Salesforce CRM** – CRM integration, customer data sync, opportunity tracking, analytics integration  
 - ✅ **Life & Annuity Domain Learning** – Policy, claims, retention, and compliance use cases  
 - ✅ **Solution Consulting** – Business problem framing, executive presentations, ROI modeling  
 - ✅ **Technical Leadership** – Production-ready patterns, best practices, and documentation
