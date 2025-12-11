@@ -10,10 +10,25 @@ This document maps the portfolio tools to the specific requirements and qualific
 **Requirement**: A career that started in **technical roles** and evolved into **solution consulting, pre-sales, and leadership**—with the ability to go deep technically while speaking the language of business.
 
 **Portfolio Demonstration**:
-- ✅ **Technical Depth**: All tools demonstrate production-quality code and technical implementation
-- ✅ **Solution Consulting**: Executive Presentation Generator, Business Case Builder show solution consulting approach
-- ✅ **Business Communication**: Every tool includes executive summaries, ROI calculations, and business value narratives
-- ✅ **Pre-sales Capability**: Business case templates and presentation generators demonstrate pre-sales skills
+
+**Technical Foundation:**
+- ✅ Production Python, ML models, ETL pipelines, Microsoft Fabric
+- ✅ Real-time APIs, model explainability, cloud-native architectures
+- ✅ Code demonstrates deep technical understanding and best practices
+
+**Solution Consulting Layer:**
+- ✅ Business problem framing: Each tool addresses real L&A business challenges
+- ✅ ROI modeling: Comprehensive ROI calculations and business case development
+- ✅ Executive decks: Automated presentation generation for C-suite audiences
+- ✅ Pre-sales capability: Business case templates and proposal frameworks
+
+**Leadership:**
+- ✅ Reusable portfolio: Tools designed as accelerators and repeatable assets
+- ✅ Patterns and playbooks: Consistent frameworks across all tools
+- ✅ End-to-end ownership: From technical implementation to business outcomes
+
+**Career Arc Narrative:**
+"This portfolio demonstrates how I moved from building dashboards and ML models to owning end-to-end data & AI solutions with clear business outcomes. Each tool shows technical depth (production code, best practices) combined with solution consulting mindset (business value, ROI, executive communication) and leadership thinking (reusable assets, scalable delivery models)."
 
 **Key Tools**: Executive Presentation Generator, Business Case Builder, all tool READMEs with business value sections
 
@@ -80,20 +95,33 @@ This document maps the portfolio tools to the specific requirements and qualific
 ### Key Responsibilities Mapping
 
 #### 1. Own P&L Performance & Revenue Growth
-**Portfolio Demonstration**:
-- ✅ ROI calculations in all tools
-- ✅ Business case development with revenue impact
-- ✅ P&L-focused metrics and analysis
+**Requirement**: Own P&L performance and lead revenue growth for the Life & Annuity vertical, including pipeline development and portfolio profitability.
 
-**Key Tools**: Business Case Builder, ROI calculators in all tools
+**Portfolio Demonstration**:
+- ✅ **Built data/AI solutions that directly impact revenue, margin, and cost**: Each tool includes commercial impact metrics (retention improvement, loss ratio reduction, opex savings)
+- ✅ **Framed around business value, ROI, and portfolio levers**: See COMMERCIAL_IMPACT.md for detailed P&L contribution analysis
+- ✅ **Portfolio profitability focus**: Tools address premium retention, claims cost reduction, operational efficiency, and underwriting margin improvement
+- ✅ **Revenue growth enablement**: Solutions designed to be packaged and sold as accelerators for L&A carriers
+
+**Commercial Impact Examples**:
+- Policy Analytics: +15-25% retention improvement, $2-5M annual premium retention per 10K policies
+- Fraud Detection: -20-40% reduction in fraudulent payouts, $1-3M annual savings
+- Churn Prediction: +20-30% retention improvement, $3-8M annual premium retention
+- Compliance Automation: -60-80% reduction in reporting time, $200K-500K annual savings
+
+**Key Tools**: Business Case Builder, ROI calculators in all tools, COMMERCIAL_IMPACT.md
 
 #### 2. Engage with Senior Client Stakeholders
-**Portfolio Demonstration**:
-- ✅ Executive presentation generation
-- ✅ Business case templates
-- ✅ C-suite ready materials
+**Requirement**: Engage directly with senior client stakeholders to shape AI, data, and digital solutions that address critical business challenges.
 
-**Key Tools**: Executive Presentation Generator, Business Case Builder
+**Portfolio Demonstration**:
+- ✅ **Board-ready decks**: Executive Presentation Generator creates C-suite ready materials (see examples/ directory)
+- ✅ **Talk tracks tailored to Life & Annuity carriers**: Includes pre-built storylines for CFO, CRO, COO, and CDO personas
+- ✅ **Business case templates**: Compelling ROI narratives and business cases
+- ✅ **Executive summaries**: Every tool includes executive-ready summaries suitable for boardroom discussions
+- ✅ **Solution framing**: Tools demonstrate ability to translate technical solutions into business value and strategic outcomes
+
+**Key Tools**: Executive Presentation Generator, Business Case Builder, example executive decks
 
 #### 3. Lead Pursuits, Proposals, and Executive Presentations
 **Portfolio Demonstration**:
@@ -104,20 +132,33 @@ This document maps the portfolio tools to the specific requirements and qualific
 **Key Tools**: Executive Presentation Generator, Business Case Builder, Fabric Demo Generator
 
 #### 4. Design, Position, and Launch Differentiated Solutions
-**Portfolio Demonstration**:
-- ✅ Solution architecture in all tools
-- ✅ Integration patterns
-- ✅ Deployment automation
+**Requirement**: Partner closely with global delivery, product, and technology teams to design, position, and launch differentiated solutions.
 
-**Key Tools**: All tools demonstrate solution design, Fabric Deployment Automation
+**Portfolio Demonstration**:
+- ✅ **Solution architecture**: End-to-end architectures in all tools (see ARCHITECTURE_OVERVIEW.md)
+- ✅ **Delivery & Operating Model**: Tools designed as solution accelerators for global delivery teams (data engineers, ML engineers, BI devs, consultants)
+- ✅ **Repeatable assets**: Patterns and frameworks that reduce implementation time and cost
+- ✅ **Integration patterns**: Seamless integration with existing systems and platforms
+- ✅ **Deployment automation**: Automated deployment and configuration management
+
+**Delivery Model**:
+- Solution accelerators that can be deployed via global teams
+- Repeatable patterns and frameworks
+- Consulting-services approach, not just one-off builds
+- Scalable delivery model leveraging specialized teams
+
+**Key Tools**: All tools demonstrate solution design, Fabric Deployment Automation, PORTFOLIO_OVERVIEW.md (Delivery & Operating Model section)
 
 #### 5. Represent Capabilities Through Thought Leadership
-**Portfolio Demonstration**:
-- ✅ Comprehensive documentation
-- ✅ Best practices demonstrated
-- ✅ Industry-specific use cases
+**Requirement**: Represent the company's capabilities in the market through thought leadership, industry events, and advisory discussions.
 
-**Key Tools**: All tool READMEs, Portfolio Overview
+**Portfolio Demonstration**:
+- ✅ **Thought leadership topics**: See THOUGHT_LEADERSHIP_TOPICS.md for 3-5 talk/webinar outlines
+- ✅ **Market-facing content**: Topics include "Using AI to Improve Lapse & Surrender Management in L&A", "Microsoft Fabric for Insurance", "Real-time Fraud Detection Across Life Claims"
+- ✅ **Conference-ready**: Outlines suitable for industry conferences, webinars, and roundtables
+- ✅ **Comprehensive documentation**: Best practices and industry-specific use cases throughout
+
+**Key Tools**: THOUGHT_LEADERSHIP_TOPICS.md, All tool READMEs, Portfolio Overview
 
 #### 6. Monitor Technology Trends
 **Portfolio Demonstration**:

@@ -52,42 +52,74 @@ Lead a high-growth business area, shape strategic transformation across leading 
 
 [Apply on LinkedIn](https://www.linkedin.com/jobs/view/4342625492/)
 
-## Portfolio Tools
+# Empiric – VP of Data & AI (Insurance) Portfolio
 
-This repository includes a comprehensive portfolio of AI/ML and data analytics tools specifically designed for the Life & Annuity insurance sector, demonstrating technical depth, domain learning capability, and solution consulting approach.
+This repository showcases a targeted portfolio of data, analytics, automation, and AI solutions for the **Life & Annuity insurance** sector. It is designed to demonstrate:
 
-### Tools Included
+- Technical depth in data, AI/ML, automation, and Microsoft Fabric
+- Rapid domain learning in Life & Annuity business processes
+- A solution consulting mindset: business value, ROI, and executive storytelling
 
-1. **Life & Annuity Policy Analytics Dashboard** - Advanced analytics for policy performance, retention, and profitability
-2. **Insurance Claims Fraud Detection (AI/ML)** - Production ML models for real-time fraud detection
-3. **Customer Churn Prediction & Retention** - Predictive analytics and automated retention campaigns
-4. **Regulatory Compliance Automation** - Automated regulatory reporting and compliance management
-5. **Data Pipeline & ETL Framework** - Cloud-native data processing and quality monitoring
-6. **Microsoft Fabric Integration** - Fabric workspace management and Power BI Project (pbip v7) generation
-7. **Executive Presentation Generator** - Automated executive presentations and business case development
+Together, these assets represent the type of portfolio a **Vice President of Data & AI – Insurance** would lead and scale across major carriers.
 
-### Key Capabilities Demonstrated
+---
 
-- ✅ **AI/ML**: Production ML models, model explainability, real-time scoring
-- ✅ **Data Analytics**: Advanced analytics, visualization, executive reporting
-- ✅ **Automation**: Automated workflows, compliance reporting, data pipelines
-- ✅ **Cloud Technologies**: Cloud-native architecture patterns (AWS, Azure, Fabric)
-- ✅ **Microsoft Fabric**: Workspace management, semantic models, pbip v7 format, Gen2 dataflows
-- ✅ **Domain Learning**: Life & Annuity insurance use cases and business processes
-- ✅ **Solution Consulting**: Executive presentations, business cases, ROI calculations
-- ✅ **Technical Leadership**: Production-ready code, best practices, comprehensive documentation
+## Tools Included
 
-### Getting Started
+- **Life & Annuity Policy Analytics Dashboard**  
+  Advanced analytics for policy performance, persistency, retention, and profitability across product lines (term, whole life, annuities).
+
+- **Insurance Claims Fraud Detection (AI/ML)**  
+  Production-style ML pipeline for real-time claims fraud detection, with model explainability and integration patterns.
+
+- **Customer Churn Prediction & Retention**  
+  Predictive models to identify at-risk policyholders and trigger automated, data-driven retention campaigns.
+
+- **Regulatory Compliance Automation**  
+  Automated workflows for recurring regulatory reporting and compliance checks tailored to L&A carriers.
+
+- **Data Pipeline & ETL Framework**  
+  Cloud-native ingestion and transformation framework with data quality and monitoring, suitable for multi-source insurance data.
+
+- **Microsoft Fabric Integration**  
+  Fabric workspace management, semantic models, pbip v7 generation, and Gen2 dataflows for unified analytics and AI.
+
+- **Executive Presentation Generator**  
+  Automated executive-ready presentations and business cases that translate technical solutions into P&L impact and strategic outcomes. Includes board-ready decks and talk tracks tailored to Life & Annuity carriers.
+
+---
+
+## Key Capabilities Demonstrated
+
+- ✅ **AI/ML** – Supervised models, model explainability, batch + real-time scoring  
+- ✅ **Data Analytics** – Advanced analysis, visualization, and C-suite dashboards  
+- ✅ **Automation** – Data pipelines, compliance workflows, and campaign orchestration  
+- ✅ **Cloud Technologies** – Cloud-native architectures on Azure/AWS and Microsoft Fabric  
+- ✅ **Microsoft Fabric** – Semantic models, pbip v7 format, Gen2 dataflows, workspace ops  
+- ✅ **Life & Annuity Domain Learning** – Policy, claims, retention, and compliance use cases  
+- ✅ **Solution Consulting** – Business problem framing, executive presentations, ROI modeling  
+- ✅ **Technical Leadership** – Production-ready patterns, best practices, and documentation
+
+---
+
+## How to Use This Portfolio
 
 Each tool includes:
-- Comprehensive README with business value and use cases
-- Production-ready Python code
-- Example usage and integration patterns
-- Executive summaries and ROI calculations
 
-See the `tools/` directory for detailed documentation on each tool.
+- A **README** describing the business problem, L&A context, and business value  
+- **Production-style Python code** with clear structure and patterns  
+- **Example usage and integration patterns** (data flows, APIs, BI integration)  
+- **Executive summaries and ROI calculations** suitable for C-suite discussions  
 
-For a complete overview, see [PORTFOLIO_OVERVIEW.md](PORTFOLIO_OVERVIEW.md) and [SKILLS_MAPPING.md](SKILLS_MAPPING.md).
+See the `tools/` directory for detailed documentation.
+
+For a full view across the role requirements, see:
+
+- `PORTFOLIO_OVERVIEW.md` – How the assets form a cohesive Data & AI portfolio for L&A carriers  
+- `SKILLS_MAPPING.md` – Explicit mapping between Empiric's JD and the capabilities shown here
+- `COMMERCIAL_IMPACT.md` – P&L contribution and business impact analysis
+- `THOUGHT_LEADERSHIP_TOPICS.md` – Market-facing topics and presentation outlines
+- `ARCHITECTURE_OVERVIEW.md` – End-to-end reference architecture and generative AI integration points
 
 ---
 

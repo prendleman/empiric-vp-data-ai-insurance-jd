@@ -174,6 +174,49 @@ This portfolio demonstrates comprehensive capabilities in AI/ML, data analytics,
 - ROI calculation and analysis
 - Data storytelling
 
+## Delivery & Operating Model
+
+This portfolio is designed to be delivered via global delivery teams, following a consulting-services model rather than one-off builds.
+
+### Solution Accelerators
+
+Each tool is designed as a **solution accelerator**—a reusable component that can be deployed across multiple carriers:
+
+- **Pre-built Patterns**: Common L&A insurance patterns and frameworks
+- **Integration Templates**: Pre-configured integrations with standard systems
+- **Configuration-Driven**: Customizable without code changes
+- **Rapid Deployment**: 40-60% reduction in implementation time vs. custom builds
+
+### Global Delivery Model
+
+Tools are designed to leverage specialized global delivery teams:
+
+- **Data Engineers**: Pipeline development, ETL implementation, data quality
+- **ML Engineers**: Model development, training, deployment, MLOps
+- **BI Developers**: Dashboard development, Power BI/Fabric implementation
+- **Consultants**: Business alignment, change management, user adoption
+
+### Repeatable Assets
+
+- **Patterns & Frameworks**: Consistent approaches across all tools
+- **Playbooks**: Step-by-step implementation guides
+- **Best Practices**: Industry-standard patterns and architectures
+- **Documentation**: Comprehensive guides for delivery teams
+
+### Consulting Services Approach
+
+- **Not One-Off Builds**: Tools designed as reusable accelerators
+- **Scalable Model**: Can be deployed across multiple carriers with customization
+- **Time to Value**: Faster delivery through pre-built components
+- **Cost Efficiency**: Lower total cost of ownership through reuse
+
+### Implementation Phases
+
+1. **Discovery & Assessment** (2-4 weeks): Understand carrier-specific needs
+2. **Pilot Deployment** (8-12 weeks): Deploy 1-2 tools as proof of concept
+3. **Scale & Expand** (3-6 months): Roll out additional tools and use cases
+4. **Optimize & Enhance** (Ongoing): Continuous improvement and expansion
+
 ## Business Value Framework
 
 Each tool follows a consistent business value framework:
