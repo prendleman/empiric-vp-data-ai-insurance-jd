@@ -169,11 +169,13 @@ This document maps the portfolio tools to the specific requirements and qualific
 
 **Key Tools**: Microsoft Fabric Integration, all modern tooling
 
-## Microsoft Fabric Alignment
+## Microsoft Fabric & Salesforce Alignment
 
 **Recruiter Focus**: Thomas Tarleton is Head of Microsoft Fabric & Salesforce Recruitment
 
 **Portfolio Demonstration**:
+
+**Microsoft Fabric**:
 - ✅ **Comprehensive Fabric Integration**: Dedicated Fabric integration tool
 - ✅ **pbip v7 Format**: Full support for latest Power BI Project format
 - ✅ **Workspace Management**: Complete workspace API integration
@@ -182,7 +184,15 @@ This document maps the portfolio tools to the specific requirements and qualific
 - ✅ **Lakehouse Integration**: Direct Lakehouse integration
 - ✅ **Fabric Demos**: Fabric-specific capability demonstrations
 
-**Key Tools**: Microsoft Fabric Integration tool, Fabric Demo Generator
+**Salesforce CRM**:
+- ✅ **CRM Integration**: Complete Salesforce connector for L&A insurance
+- ✅ **Customer Data Sync**: Policy-to-Account/Contact synchronization
+- ✅ **Claims Integration**: Claims-to-Cases for service management
+- ✅ **Opportunity Tracking**: Sales pipeline management
+- ✅ **Analytics Integration**: CRM data export for Fabric analytics
+- ✅ **360-Degree View**: Customer relationship management capabilities
+
+**Key Tools**: Microsoft Fabric Integration tool, Salesforce CRM Connector, Fabric Demo Generator
 
 ## Technical Skills Summary
 

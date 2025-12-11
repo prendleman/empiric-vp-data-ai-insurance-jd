@@ -117,7 +117,27 @@ This portfolio demonstrates comprehensive capabilities in AI/ML, data analytics,
 
 **Technology Stack**: Python, Microsoft Fabric REST API, pbip v7 format, MSAL
 
-### 7. Executive Presentation Generator
+### 7. Salesforce CRM Connector
+
+**Purpose**: Demonstrate CRM integration capabilities for Life & Annuity insurance
+
+**Key Features**:
+- Policy-to-Account/Contact synchronization
+- Claims-to-Cases integration
+- Opportunity tracking for sales pipeline
+- Customer 360-degree view
+- Agent performance analytics
+- Integration with analytics platforms (Fabric)
+
+**Business Impact**:
+- 360-degree customer view across sales, service, and claims
+- 20-30% improvement in sales cycle time
+- Better agent productivity and distribution channel management
+- Improved service quality with integrated data
+
+**Technology Stack**: Python, Simple-Salesforce, Salesforce REST API
+
+### 8. Executive Presentation Generator
 
 **Purpose**: Demonstrate solution consulting and executive communication skills
 
